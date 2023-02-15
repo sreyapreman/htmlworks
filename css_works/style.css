@@ -1,0 +1,20 @@
+body{
+    background-color: black;
+    
+}
+h1{
+    text-align: center;
+    color: white;
+    text-decoration: underline;
+}
+#first{
+    color: yellow;
+    text-decoration: none;
+    text-align: left;
+}
+.brand
+{
+    color: blue;
+    text-align: right;
+    text-decoration: none;
+}

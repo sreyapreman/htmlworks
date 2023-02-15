@@ -1,0 +1,34 @@
+h1{
+    text-align: center;
+    color: aquamarine;
+}
+.select{
+    width: 400px;
+    height: 200px;
+    border: 1px solid black;
+    
+}
+.row1{
+    background-color: blueviolet;
+}
+.row2{
+    background-color:#659deb;
+}
+.row3{
+    background-color:#98e8eb;
+}
+div{
+    color: white;
+}
+.set{
+    width: 800px;
+    height: 200px;
+    border: 1px black solid;
+}
+.one{
+    background-color: #b6f7fa;
+}
+.two{
+    background-color: white;
+    color: black;
+}
